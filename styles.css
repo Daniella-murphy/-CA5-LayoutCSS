@@ -2,7 +2,7 @@
 box-sizing:border-box;
 }
 
-[class*="col"]
+[class*="col"] {
           float: left;
         /* padding: 15px */
 }
@@ -10,5 +10,5 @@ box-sizing:border-box;
 .row:after{
     content:"";
     clear:both;
-    display:black;
+    display:block;
 }
