@@ -28,7 +28,7 @@ body {
 h1{
     font-family: "Brush Script MT", monospace;
     font-size:40px;
-    text-align:center;
+    text-align:left;
     color:black;
 }
 
@@ -41,7 +41,7 @@ h2{
 h3{
     font-family: "Courier New", sans-serif;
     font-size:20px;
-    text-align:center;
+    text-align:left;
     color:black;
 }
 
