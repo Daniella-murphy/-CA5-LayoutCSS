@@ -49,4 +49,8 @@ p{
    font-family:"verdana", sans-seif;
    font-size:15px;
    text-align:left;
+   color:black;
+}
+div{
+     text-align:left;
 }
